@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ettiko<br>Dedicated to learning reverse engineering over the past month. Working through the basics of low-level software analysis, understanding machine code instructions, and exploring how execution flow can be traced and deconstructed from a compiled binary.
+Doti<br>Dedicated to learning reverse engineering over the past month. Working through the basics of low-level software analysis, understanding machine code instructions, and exploring how execution flow can be traced and deconstructed from a compiled binary.
 
 
 ## 🌐 Socials:
